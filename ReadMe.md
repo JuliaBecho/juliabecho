@@ -15,9 +15,10 @@
 
 ### 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuliaBecho&show_icons=true&theme=github_dark" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBecho&layout=compact&theme=github_dark" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuliaBecho&show_icons=true&theme=github_dark" width="420" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBecho&layout=compact&theme=github_dark" width="340" height="200" />
 </p>
+
 
 
 
