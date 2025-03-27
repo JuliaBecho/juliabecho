@@ -10,8 +10,7 @@
 
 ### 📫 Contact Me
 - Email: [juliabecho@gmail.com](mailto:juliabecho@gmail.com)
-- Instagram: [@JuliaBecho](https://www.instagram.com/juliabecho)
-
+- Linkedin: https://www.linkedin.com/in/julia-monteiro-becho-677047211/
 ---
 
 ### 🚀 GitHub Stats
