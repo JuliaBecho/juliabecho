@@ -12,6 +12,7 @@
 - Portifolio: https://portifoliojuliabecho.netlify.app/#contact
 - Email: [juliabecho@gmail.com](mailto:juliabecho@gmail.com)
 - Linkedin: https://www.linkedin.com/in/julia-monteiro-becho-677047211/
+- Recent Project: https://pawtnerfront.onrender.com
 ---
 
 ### 🚀 GitHub Stats
